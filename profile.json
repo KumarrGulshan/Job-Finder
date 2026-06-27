@@ -1,0 +1,93 @@
+{
+  "name": "Gulshan Kumar",
+  "email": "kumarr.gulshan12@gmail.com",
+  "phone": "6204049722",
+  "city": "Ranchi",
+  "state": "Jharkhand",
+  "linkedin_url": "https://linkedin.com/in/gulshan-kumar",
+  "github_url": "https://github.com/gulshan-kumar",
+  "experience_years": 1,
+  "current_role": "Final Year B.Tech Student",
+  "notice_period": "Immediate",
+  "expected_salary": 400000,
+  "current_salary": 0,
+  "preferred_cities": ["Bangalore", "Hyderabad", "Pune", "Remote"],
+
+  "education": {
+    "degree": "B.Tech",
+    "branch": "Computer Science",
+    "college": "Cambridge Institute of Technology, Tatisilwai Ranchi",
+    "year_of_passing": "2026",
+    "cgpa": "7.9"
+  },
+
+  "skills": [
+    "Java", "Python", "JavaScript", "SQL", "C", "Dart"
+  ],
+
+  "frameworks": [
+    "Spring Boot", "Spring Security", "Flutter", "React.js",
+    "WebSocket", "JWT", "OAuth2", "JPA", "Hibernate",
+    "Microservices", "Tailwind CSS", "REST API"
+  ],
+
+  "databases": ["MongoDB", "MySQL"],
+
+  "tools": [
+    "Git", "Docker", "Postman", "GitHub Actions",
+    "IntelliJ IDEA", "VS Code", "Android Studio",
+    "AWS EC2", "AWS S3", "AWS IAM"
+  ],
+
+  "languages": ["Java", "Python", "JavaScript", "Dart", "C"],
+
+  "ml_libraries": ["PyTorch", "NumPy", "Pandas", "Matplotlib", "scikit-learn"],
+
+  "messaging": ["Apache Kafka", "WebSocket STOMP"],
+
+  "testing": ["JUnit", "Mockito"],
+
+  "projects": [
+    {
+      "name": "SyncForge",
+      "description": "Real-Time Collaborative Project Management Platform with Kanban board, JWT auth, WebSocket notifications, and Gemini AI integration",
+      "tech_stack": ["Flutter", "Java", "Spring Boot", "Spring Security", "WebSocket", "MongoDB", "JWT", "Gemini AI"]
+    },
+    {
+      "name": "MindCore-LLM",
+      "description": "Mini Transformer Language Model built from scratch using PyTorch, based on Attention Is All You Need paper",
+      "tech_stack": ["Python", "PyTorch"]
+    },
+    {
+      "name": "Real-Time Chat App",
+      "description": "Real-time chat system with JWT authentication, WebSocket STOMP messaging, room-based chat, and React frontend",
+      "tech_stack": ["React", "Spring Boot", "WebSocket", "JWT", "MongoDB", "Tailwind CSS"]
+    }
+  ],
+
+  "experience": [
+    {
+      "role": "Java Development Intern",
+      "company": "Cognifyz Technologies",
+      "location": "Nagpur, Maharashtra",
+      "duration": "May 2025 – June 2025",
+      "highlights": ["Java mini-projects", "Tic-Tac-Toe", "File Encryption/Decryption", "Password Strength Checker"]
+    },
+    {
+      "role": "Data Science Intern",
+      "company": "Unified Mentor",
+      "location": "Gurgaon, Haryana",
+      "duration": "May 2024 – June 2024",
+      "highlights": ["Amazon sales data analysis", "Data visualization", "Pandas", "NumPy", "Matplotlib"]
+    }
+  ],
+
+  "achievements": [
+    "President – Web Technology Club, CIT Ranchi (2022 – Present)",
+    "Solved 100+ DSA problems on LeetCode"
+  ],
+
+  "certifications": [],
+
+  "summary": "Final-year Computer Science undergraduate with internship experience and strong project portfolio. Proficient in Java, Spring Boot, Flutter, React, MongoDB, WebSocket, and AWS fundamentals. Built real-time, full-stack, and AI-powered applications. President of Web Technology Club."
+}
